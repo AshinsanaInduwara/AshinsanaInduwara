@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://dev.to/AshinsanaInduwara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="AshinsanaInduwara" height="30" width="40" /></a>
-    <a href="https://twitter.com/Induwara_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Induwara_official" height="30" width="40" /></a>
+    <a href="https://twitter.com/Induwara_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Induwara" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/AshinsanaInduwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AshinsanaInduwara" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/20507748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20507748" height="30" width="40" /></a>
     <a href="https://fb.com/AshinsanaInduwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AshinsanaInduwara" height="30" width="40" /></a>
@@ -60,8 +60,8 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Induwaraofficial&show_icons=true&locale=en&layout=compact" alt="Induwaraofficial" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirunaofficial&show_icons=true&locale=en&layout=compact" alt="Induwaraofficial" /></p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Induwaraofficial&" alt="Induwaraofficial" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirunaofficial&" alt="Induwaral" /></p>
