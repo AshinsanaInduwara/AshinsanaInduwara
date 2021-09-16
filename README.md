@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Induwara</h1>
-<h3>I'm a Web Designer, Graphic Designer, Web Based Android App Developer Java AND Python Leaner from Sri Lanka. 🇱🇰🇱🇰 </h3>
+<h3>I'm a Web Designer, Graphic Designer, Web Based Android App Developer Java AND Python Leaner from Sri Lanka. 🇱🇰 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshinsanaInduwara&label=Profile%20views&color=0e75b6&style=flat" alt="AshinsanaInduwara" /> </p>
 
