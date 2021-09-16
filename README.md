@@ -1,27 +1,27 @@
 <h1>Hi 👋, I'm Induwara</h1>
 <h3>I'm a Web Designer, Graphic Designer, Web Based Android App Developer Java AND Python Leaner from Sri Lanka. 🇱🇰🇱🇰 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirunaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="hirunaofficial" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AshinsanaInduwara&label=Profile%20views&color=0e75b6&style=flat" alt="AshinsanaInduwara" /> </p>
 
 <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirunaofficial" alt="hirunaofficial" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AshinsanaInduwara" alt="AshinsanaInduwara" /></a>
 </p>
 
 <p align="left">
     <a href="https://twitter.com/IduwaraAshinsana" target="blank"><img src="https://img.shields.io/twitter/follow/hiruna_official?logo=twitter&style=for-the-badge" alt="hiruna_official" /></a>
 </p>
 
-- 🌱 I’m currently learning **PHP, HTML, CSS, JS, Word Press and Android Studio.** - 👨‍💻 Official Website [https://hirunaofficial.github.io/](https://hirunaofficial.github.io/) - 💬 Ask me about **Anything** - 📫 How to reach me **hirunaofficial@gmail.com**
+- 🌱 I’m currently learning **PHP, HTML, CSS, JS, Word Press and Android Studio.** - 👨‍💻 Official Website [https://AshinsanaInduwara.github.io/](https://AshinsanaInduwara.github.io/) - 💬 Ask me about **Anything** - 📫 How to reach me **AshinsanaInduwara@gmail.com**
 - ⚡ Fun fact **I’m not trying to be Different. To me, I’m just being myself.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://dev.to/hirunaofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hirunaofficial" height="30" width="40" /></a>
+    <a href="https://dev.to/AshinsanaInduwara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="AshinsanaInduwara" height="30" width="40" /></a>
     <a href="https://twitter.com/hiruna_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiruna_official" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/hirunaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hirunaofficial" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/AshinsanaInduwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AshinsanaInduwara" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/20507748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20507748" height="30" width="40" /></a>
-    <a href="https://fb.com/hirunaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hirunaofficial" height="30" width="40" /></a>
-    <a href="https://instagram.com/hirunaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hirunaofficial" height="30" width="40" /></a>
+    <a href="https://fb.com/AshinsanaInduwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AshinsanaInduwara" height="30" width="40" /></a>
+    <a href="https://instagram.com/AshinsanaInduwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AshinsanaInduwara" height="30" width="40" /></a>
     <a href="https://www.youtube.com/c/hiruna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hiruna" height="30" width="40" /></a>
 </p>
 
@@ -62,6 +62,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirunaofficial&show_icons=true&locale=en&layout=compact" alt="hirunaofficial" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirunaofficial&show_icons=true&locale=en" alt="hirunaofficial" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirunaofficial&" alt="hirunaofficial" /></p>
