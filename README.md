@@ -7,9 +7,7 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AshinsanaInduwara" alt="AshinsanaInduwara" /></a>
 </p>
 
-<p align="left">
-    <a href="https://twitter.com/IduwaraAshinsana" target="blank"><img src="https://img.shields.io/twitter/follow/Induwara_official?logo=twitter&style=for-the-badge" alt="Induwara" /></a>
-</p>
+
 
 - 🌱 I’m currently learning **PHP, HTML, CSS, JS, Word Press and Android Studio.** - 👨‍💻 Official Website [https://codestar.tech/](https://codestar.tech/) - 💬 Ask me about **Anything** - 📫 How to reach me **InduwaraAshinsana7@gmail.com**
 - ⚡ Fun fact **I’m not trying to be Different. To me, I’m just being myself.**
