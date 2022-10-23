@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **PHP, HTML, CSS, JS, Word Press and Android Studio.** - 👨‍💻 Official Website [https://codestar.tech/](https://codestar.tech/) - 💬 Ask me about **Anything** - 📫 How to reach me **InduwaraAshinsana7@gmail.com**
 - ⚡ Fun fact **I’m not trying to be Different. To me, I’m just being myself.**
-
+<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshinsanaInduwara&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
